@@ -1,0 +1,38 @@
+# Test files
+src/scripts/test.sh
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Development environment directories
+.vscode/
+.idea/
+*.swp
+*~.nib
+
+# Build and compilation directories
+build/
+dist/
+*.o
+*.pyc
+
+# Dependency directories
+node_modules/
+jspm_packages/
+venv/
+.env
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Other files and directories to ignore
+*.tmp
+*.bak
+*.swp
+*.out
